@@ -58,6 +58,7 @@
 10. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
     - A. K. Dewdney
 
+----------------------
 
 1. Structure and Interpretation of Computer Programs
    - Harold Abelson
