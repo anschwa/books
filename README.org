@@ -1,4 +1,4 @@
-* Books I have read.
+* Books I have read
 ** August 2014
 1. Americanah [fn:1]
    - Chimamanda Ngozi Adichie
@@ -31,24 +31,42 @@
 1. The Mythical Man-Month
    - Fred Brooks
 
-* Books I am currently reading.
+* Books I am currently reading
 ** April 2015
 1. Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age
    - Steven Levy
 
-* Books I plan to read.
+* Books I plan to read
 1. Hackers & Painters
    - Paul Graham
 2. The Art of War[fn:2]
    - Sun Tzu
-3. Influence: Science and Practice
+3. Thinking, Fast and Slow
+   - Daniel Kahneman
+4. Influence: Science and Practice
    - Robert Cialdini
-4. The Field Guide to Understanding Human Error
+5. The Field Guide to Understanding Human Error
    - Sidney Dekker
-5. Fields of Blood: Religion and the History of Violence
+6. Fields of Blood: Religion and the History of Violence
    - Karen Armstrong
-6. The Better Angels of Our Nature
+7. The Better Angels of Our Nature
    - Steven Pinker
+8. Others in Mind: Social Origins of Self-Consciousness
+   - Philippe Rochat
+9. On Writing: A Memoir of the Craft
+   - Stephen King
+10. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
+    - A. K. Dewdney
+
+
+1. Structure and Interpretation of Computer Programs
+   - Harold Abelson
+   - Gerald Jay Sussman
+   - Julie Sussman
+
+2. The Little Schemer
+   - Daniel P. Friedman
+   - Matthias Felleisen
 
 * Footnotes
 
