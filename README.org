@@ -28,14 +28,16 @@
    - Plato
 
 ** March 2015
-1. The Mythical Man-Month
+1. The Dark Haired Girl
+   - Philip K. Dick
+2. The Mythical Man-Month
    - Fred Brooks
 
-* Books I am currently reading
-** April 2015
+** April - May 2015
 1. Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age
    - Steven Levy
 
+* Books I am currently reading
 * Books I plan to read
 1. Hackers & Painters
    - Paul Graham
