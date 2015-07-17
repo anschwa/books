@@ -38,9 +38,12 @@
    - Steven Levy
 
 * Books I am currently reading
-* Books I plan to read
+** July 2015
 1. Hackers & Painters
    - Paul Graham
+* Books I plan to read
+1. A Clockwork Orange
+   - Anthony Burgess
 2. The Art of War[fn:2]
    - Sun Tzu
 3. Thinking, Fast and Slow
