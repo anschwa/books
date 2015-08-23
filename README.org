@@ -1,34 +1,39 @@
 * Books I have read
-** July 2015
+** 2015
+*** August 2015
+1. Siddhartha
+   - Hermann Hesse, translated by Hilda Rosner
+*** July 2015
 1. Hackers & Painters
    - Paul Graham
 
-** April - May 2015
+*** April - May 2015
 1. Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age
    - Steven Levy
 
-** March 2015
+*** March 2015
 1. The Dark Haired Girl
    - Philip K. Dick
 2. The Mythical Man-Month
    - Fred Brooks
 
-** February 2015
+*** February 2015
 1. The Republic[fn:1]
    - Plato
 
-** November 2014
+** 2014
+*** November 2014
 1. The Cathedral and the Bazaar
    - Essay by Eric S. Raymond
 2. The Icarus Deception: How High Will You Fly?
    - Seth Godin
 
-** September 2014
+*** September 2014
 1. "What Do You Care What Other People Think?": Further Adventures of a Curious Character
    - Richard P. Feynman
 2. The Meaning of It All: Thoughts of a Citizen-Scientist
    - Richard P. Feynman
-** August 2014
+*** August 2014
 1. Americanah [fn:1]
    - Chimamanda Ngozi Adichie
 2. Animal Farm
@@ -40,6 +45,7 @@
 5. Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)
    - Richard P. Feynman
 * Books I am currently reading
+
 * Books I plan to read
 1. A Clockwork Orange
    - Anthony Burgess
