@@ -1,5 +1,8 @@
 * Books I have read
 ** 2015
+*** September 2015
+1. My Land and My People
+   - /His Holiness the Dalai Lama/
 *** August 2015
 1. Siddhartha
    - Hermann Hesse, translated by Hilda Rosner
@@ -49,9 +52,11 @@
 * Books I am currently reading
 
 * Books I plan to read
-1. A Clockwork Orange
+1. I Am That
+   - Sri Nisargadatta Maharaj
+2. A Clockwork Orange
    - Anthony Burgess
-2. The Art of War[fn:2]
+3. The Art of War[fn:2]
    - Sun Tzu
 4. Thinking, Fast and Slow
    - Daniel Kahneman
