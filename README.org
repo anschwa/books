@@ -1,7 +1,9 @@
 * Books I have read
 ** 2015
 *** September 2015
-1. My Land and My People
+1. My Land and My People [fn:1]
+   - /His Holiness the Dalai Lama/
+2. The Meaning of Life [fn:1]
    - /His Holiness the Dalai Lama/
 *** August 2015
 1. Siddhartha
@@ -52,27 +54,29 @@
 * Books I am currently reading
 
 * Books I plan to read
-1. I Am That
-   - Sri Nisargadatta Maharaj
-2. A Clockwork Orange
+1. A Clockwork Orange
    - Anthony Burgess
-3. The Art of War[fn:2]
+2. The Art of War[fn:2]
    - Sun Tzu
+3. I Am That
+   - Sri Nisargadatta Maharaj
 4. Thinking, Fast and Slow
    - Daniel Kahneman
-5. Influence: Science and Practice
+5. Against Method
+   - Paul Feyerabend
+6. Influence: Science and Practice
    - Robert Cialdini
-6. The Field Guide to Understanding Human Error
+7. The Field Guide to Understanding Human Error
    - Sidney Dekker
-7. Fields of Blood: Religion and the History of Violence
+8. Fields of Blood: Religion and the History of Violence
    - Karen Armstrong
-8. The Better Angels of Our Nature
+9. The Better Angels of Our Nature
    - Steven Pinker
-9. Others in Mind: Social Origins of Self-Consciousness
-   - Philippe Rochat
-10. On Writing: A Memoir of the Craft
+10. Others in Mind: Social Origins of Self-Consciousness
+    - Philippe Rochat
+11. On Writing: A Memoir of the Craft
     - Stephen King
-11. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
+12. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
     - A. K. Dewdney
 
 ----------------------
@@ -91,3 +95,4 @@
 [fn:1] A Book assigned for class.
 
 [fn:2] A Book I reread.
+  
