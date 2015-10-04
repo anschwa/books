@@ -58,8 +58,8 @@
    - Anthony Burgess
 2. The Art of War[fn:2]
    - Sun Tzu
-3. I Am That
-   - Sri Nisargadatta Maharaj
+3. What Makes You Not a Buddhist
+   - Dzongsar Jamyang Khyentse
 4. Thinking, Fast and Slow
    - Daniel Kahneman
 5. Against Method
@@ -78,6 +78,8 @@
     - Stephen King
 12. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
     - A. K. Dewdney
+13. I Am That
+    - Sri Nisargadatta Maharaj
 
 ----------------------
 
