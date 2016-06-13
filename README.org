@@ -3,6 +3,8 @@
 *** June 2016
 1. Cat's Cradle
    - Kurt Vonnegut
+2. Style: Toward Clarity and Grace
+   - Joseph M. Williams
 *** January 2016
 1. Orientalism [fn:1]
    - Edward W. Said
@@ -68,8 +70,6 @@
 5. Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)
    - Richard P. Feynman
 * Books I am currently reading
-1. Style: Toward Clarity and Grace
-   - Joseph M. Williams
 * Books I plan to read
 1. The Art of War[fn:2]
    - Sun Tzu
