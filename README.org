@@ -5,6 +5,8 @@
    - Kurt Vonnegut
 2. Style: Toward Clarity and Grace
    - Joseph M. Williams
+3. The Art of War[fn:2]
+   - Sun Tzu
 *** January 2016
 1. Orientalism [fn:1]
    - Edward W. Said
@@ -70,34 +72,36 @@
 5. Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)
    - Richard P. Feynman
 * Books I am currently reading
-1. The Art of War[fn:2]
-   - Sun Tzu
-* Books I plan to read
-1. Thinking, Fast and Slow
-   - Daniel Kahneman
-2. Against Method
+1. Against Method
    - Paul Feyerabend
-3. Influence: Science and Practice
-   - Robert Cialdini
-4. The Field Guide to Understanding Human Error
-   - Sidney Dekker
-5. Fields of Blood: Religion and the History of Violence
-   - Karen Armstrong
-6. The Better Angels of Our Nature
-   - Steven Pinker
-7. Others in Mind: Social Origins of Self-Consciousness
-   - Philippe Rochat
-8. On Writing: A Memoir of the Craft
-   - Stephen King
-9. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
-   - A. K. Dewdney
-
-----------------------
-
-1. Structure and Interpretation of Computer Programs
+2. Structure and Interpretation of Computer Programs
    - Harold Abelson
    - Gerald Jay Sussman
    - Julie Sussman
+
+* Books I plan to read
+1. Ubik
+   - Philip K. Dick
+2. Farewell to Reason
+   - Paul Feyerabend
+3. Thinking, Fast and Slow
+   - Daniel Kahneman
+4. Influence: Science and Practice
+   - Robert Cialdini
+5. The Field Guide to Understanding Human Error
+   - Sidney Dekker
+6. Fields of Blood: Religion and the History of Violence
+   - Karen Armstrong
+7. The Better Angels of Our Nature
+   - Steven Pinker
+8. Others in Mind: Social Origins of Self-Consciousness
+   - Philippe Rochat
+9. On Writing: A Memoir of the Craft
+   - Stephen King
+10. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
+    - A. K. Dewdney
+
+----------------------
 
 2. The Little Schemer
    - Daniel P. Friedman
