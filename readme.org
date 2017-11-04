@@ -78,27 +78,29 @@
    - Paul Feyerabend
 
 * Books I plan to read
-1. Dream machine
-  - Mitchell Waldrop
-1. The Structure of Scientific Revolutions
+1. How to Talk About Books You Haven’t Read
+   - Pierre Bayard
+2. Dream machine
+   - Mitchell Waldrop
+3. The Structure of Scientific Revolutions
    - Thomas Kuhn
-2. Gödel, Escher, Bach: An Eternal Golden Braid
+4. Gödel, Escher, Bach: An Eternal Golden Braid
    - Douglas Hofstadter
-3. Thinking, Fast and Slow
+5. Thinking, Fast and Slow
    - Daniel Kahneman
-4. Influence: Science and Practice
+6. Influence: Science and Practice
    - Robert Cialdini
-5. The Field Guide to Understanding Human Error
+7. The Field Guide to Understanding Human Error
    - Sidney Dekker
-6. Fields of Blood: Religion and the History of Violence
+8. Fields of Blood: Religion and the History of Violence
    - Karen Armstrong
-7. The Better Angels of Our Nature
+9. The Better Angels of Our Nature
    - Steven Pinker
-8. Others in Mind: Social Origins of Self-Consciousness
-   - Philippe Rochat
-9. On Writing: A Memoir of the Craft
-   - Stephen King
-10. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
+10. Others in Mind: Social Origins of Self-Consciousness
+    - Philippe Rochat
+11. On Writing: A Memoir of the Craft
+    - Stephen King
+12. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
     - A. K. Dewdney
 
 * Books I have partially read
