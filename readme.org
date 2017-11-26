@@ -1,5 +1,8 @@
 * Books I have read
 ** 2017
+*** January - November 2017
+1. Farewell to Reason
+   - Paul Feyerabend
 ** 2016
 *** November 2016
 1. Ubik
@@ -74,8 +77,6 @@
    - Richard P. Feynman
 
 * Books I am currently reading
-1. Farewell to Reason
-   - Paul Feyerabend
 
 * Books I plan to read
 1. How to Talk About Books You Haven’t Read
