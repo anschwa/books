@@ -4,7 +4,7 @@
 1. Farewell to Reason
    - Paul Feyerabend
 *** October 2017
-1. Billy Budd, Sailor [fn:1]
+1. Billy Budd, Sailor [1]
    - Herman Melville
 ** 2016
 *** November 2016
@@ -15,12 +15,12 @@
    - Kurt Vonnegut
 2. Style: Toward Clarity and Grace
    - Joseph M. Williams
-3. The Art of War[fn:2]
+3. The Art of War[2]
    - Sun Tzu
 4. Against Method
    - Paul Feyerabend
 *** January 2016
-1. Orientalism [fn:1]
+1. Orientalism [1]
    - Edward W. Said
 ** 2015
 *** December 2015
@@ -32,9 +32,9 @@
 2. Fahrenheit 451
    - Ray Bradbury
 *** September 2015
-1. My Land and My People [fn:1]
+1. My Land and My People [1]
    - /His Holiness the Dalai Lama/
-2. The Meaning of Life [fn:1]
+2. The Meaning of Life [1]
    - /His Holiness the Dalai Lama/
 *** August 2015
 1. Siddhartha
@@ -53,7 +53,7 @@
 2. The Mythical Man-Month
    - Fred Brooks
 *** February 2015
-1. The Republic[fn:1]
+1. The Republic[1]
    - Plato
 
 ** 2014
@@ -68,7 +68,7 @@
 2. The Meaning of It All: Thoughts of a Citizen-Scientist
    - Richard P. Feynman
 *** August 2014
-1. Americanah [fn:1]
+1. Americanah [1]
    - Chimamanda Ngozi Adichie
 2. Animal Farm
    - George Orwell
@@ -120,7 +120,7 @@
    - https://doc.rust-lang.org/book/
 
 * Footnotes
-[fn:1] A Book assigned for class.
+[1] A Book assigned for class.
 
-[fn:2] A Book I reread.
+[2] A Book I reread.
   
