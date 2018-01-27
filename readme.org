@@ -84,7 +84,8 @@
    - Richard P. Feynman
 
 * Books I am currently reading
-
+1. The Structure of Scientific Revolutions
+   - Thomas S. Kuhn
 * Books I plan to read
 1. How to Talk About Books You Haven’t Read
    - Pierre Bayard
