@@ -7,6 +7,8 @@
 *** February
 1. The Structure of Scientific Revolutions
    - Thomas S. Kuhn
+2. How to Talk About Books You Haven’t Read
+   - Pierre Bayard
 *** January
 1. Discourse on Method and Meditations on First Philosophy [1]
    - René Descartes
@@ -91,30 +93,24 @@
    - Richard P. Feynman
 
 * Books I plan to read
-1. How to Talk About Books You Haven’t Read
-   - Pierre Bayard
-2. Quantum Computer Science: An Introduction
+1. Quantum Computer Science: An Introduction
    - N. David Mermin
-3. The Structure of Scientific Revolutions
-   - Thomas Kuhn
-4. Gödel, Escher, Bach: An Eternal Golden Braid
+2. Gödel, Escher, Bach: An Eternal Golden Braid
    - Douglas Hofstadter
-5. Dream machine
+3. Dream machine
    - Mitchell Waldrop
-6. Thinking, Fast and Slow
+4. Thinking, Fast and Slow
    - Daniel Kahneman
-7. Influence: Science and Practice
+5. Influence: Science and Practice
    - Robert Cialdini
-8. The Field Guide to Understanding Human Error
+6. The Field Guide to Understanding Human Error
    - Sidney Dekker
-9. Fields of Blood: Religion and the History of Violence
-   - Karen Armstrong
-10. The Better Angels of Our Nature
-    - Steven Pinker
-11. Others in Mind: Social Origins of Self-Consciousness
-    - Philippe Rochat
-12. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
-    - A. K. Dewdney
+7. The Better Angels of Our Nature
+   - Steven Pinker
+8. Others in Mind: Social Origins of Self-Consciousness
+   - Philippe Rochat
+9. The New Turing Omnibus: Sixty-Six Excursions in Computer Science
+   - A. K. Dewdney
 
 * Books I have partially read
 1. Structure and Interpretation of Computer Programs
