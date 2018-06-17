@@ -1,9 +1,10 @@
 * Books I am currently reading
-1. Ethics, Treatise on the Emendation of the Intellect and Selected Letters [1]
-   - Baruch Spinoza
 
 * Books I have read
 ** 2018
+*** March - June
+1. Ethics, Treatise on the Emendation of the Intellect and Selected Letters [1]
+   - Baruch Spinoza
 *** February
 1. The Structure of Scientific Revolutions
    - Thomas S. Kuhn
