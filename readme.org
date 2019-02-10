@@ -99,7 +99,6 @@
 2. Gödel, Escher, Bach: An Eternal Golden Braid
    - Douglas Hofstadter
 3. Quantum Computer Science: An Introduction
-   - N. David Mermin
 
 * Books I have partially read
 1. Structure and Interpretation of Computer Programs
