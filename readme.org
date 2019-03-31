@@ -1,118 +1,119 @@
 * Books I am currently reading
-  
+** March
+   1. Wittgenstein's Poker
+      - David Edmonds & John Eidinow
 * Books I have read
 ** 2018
 *** March - June
-1. Ethics, Treatise on the Emendation of the Intellect and Selected Letters [1]
-   - Baruch Spinoza
+    1. Ethics, Treatise on the Emendation of the Intellect and Selected Letters [1]
+       - Baruch Spinoza
 *** February
-1. The Structure of Scientific Revolutions
-   - Thomas S. Kuhn
-2. How to Talk About Books You Haven’t Read
-   - Pierre Bayard
+    1. The Structure of Scientific Revolutions
+       - Thomas S. Kuhn
+    2. How to Talk About Books You Haven’t Read
+       - Pierre Bayard
 *** January
-1. Discourse on Method and Meditations on First Philosophy [1]
-   - René Descartes
+    1. Discourse on Method and Meditations on First Philosophy [1]
+       - René Descartes
 ** 2017
 *** January - November 2017
-1. Farewell to Reason
-   - Paul Feyerabend
+    1. Farewell to Reason
+       - Paul Feyerabend
 *** October 2017
-1. Billy Budd, Sailor [1]
-   - Herman Melville
+    1. Billy Budd, Sailor [1]
+       - Herman Melville
 ** 2016
 *** November 2016
-1. Ubik
-   - Philip K. Dick
+    1. Ubik
+       - Philip K. Dick
 *** June 2016
-1. Cat's Cradle
-   - Kurt Vonnegut
-2. Style: Toward Clarity and Grace
-   - Joseph M. Williams
-3. The Art of War[2]
-   - Sun Tzu
-4. Against Method
-   - Paul Feyerabend
+    1. Cat's Cradle
+       - Kurt Vonnegut
+    2. Style: Toward Clarity and Grace
+       - Joseph M. Williams
+    3. The Art of War[2]
+       - Sun Tzu
+    4. Against Method
+       - Paul Feyerabend
 *** January 2016
-1. Orientalism [1]
-   - Edward W. Said
+    1. Orientalism [1]
+       - Edward W. Said
 ** 2015
 *** December 2015
-1. A Clockwork Orange
-   - Anthony Burgess
+    1. A Clockwork Orange
+       - Anthony Burgess
 *** November 2015
-1. What Makes You Not a Buddhist
-   - Dzongsar Jamyang Khyentse
-2. Fahrenheit 451
-   - Ray Bradbury
+    1. What Makes You Not a Buddhist
+       - Dzongsar Jamyang Khyentse
+    2. Fahrenheit 451
+       - Ray Bradbury
 *** September 2015
-1. My Land and My People [1]
-   - /His Holiness the Dalai Lama/
-2. The Meaning of Life [1]
-   - /His Holiness the Dalai Lama/
+    1. My Land and My People [1]
+       - /His Holiness the Dalai Lama/
+    2. The Meaning of Life [1]
+       - /His Holiness the Dalai Lama/
 *** August 2015
-1. Siddhartha
-   - Hermann Hesse, translated by Hilda Rosner
-2. Brave New World
-   - Aldous Huxley
+    1. Siddhartha
+       - Hermann Hesse, translated by Hilda Rosner
+    2. Brave New World
+       - Aldous Huxley
 *** July 2015
-1. Hackers & Painters
-   - Paul Graham
+    1. Hackers & Painters
+       - Paul Graham
 *** April - May 2015
-1. Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age
-   - Steven Levy
+    1. Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age
+       - Steven Levy
 *** March 2015
-1. The Dark Haired Girl
-   - Philip K. Dick
-2. The Mythical Man-Month
-   - Fred Brooks
+    1. The Dark Haired Girl
+       - Philip K. Dick
+    2. The Mythical Man-Month
+       - Fred Brooks
 *** February 2015
-1. The Republic[1]
-   - Plato
+    1. The Republic[1]
+       - Plato
 
 ** 2014
 *** November 2014
-1. The Cathedral and the Bazaar
-   - Essay by Eric S. Raymond
-2. The Icarus Deception: How High Will You Fly?
-   - Seth Godin
+    1. The Cathedral and the Bazaar
+       - Essay by Eric S. Raymond
+    2. The Icarus Deception: How High Will You Fly?
+       - Seth Godin
 *** September 2014
-1. "What Do You Care What Other People Think?": Further Adventures of a Curious Character
-   - Richard P. Feynman
-2. The Meaning of It All: Thoughts of a Citizen-Scientist
-   - Richard P. Feynman
+    1. "What Do You Care What Other People Think?": Further Adventures of a Curious Character
+       - Richard P. Feynman
+    2. The Meaning of It All: Thoughts of a Citizen-Scientist
+       - Richard P. Feynman
 *** August 2014
-1. Americanah [1]
-   - Chimamanda Ngozi Adichie
-2. Animal Farm
-   - George Orwell
-3. Nineteen Eighty-Four
-   - George Orwell
-4. The Salmon of Doubt
-   - Douglas Adams
-5. Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)
-   - Richard P. Feynman
+    1. Americanah [1]
+       - Chimamanda Ngozi Adichie
+    2. Animal Farm
+       - George Orwell
+    3. Nineteen Eighty-Four
+       - George Orwell
+    4. The Salmon of Doubt
+       - Douglas Adams
+    5. Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)
+       - Richard P. Feynman
 
 * Books I plan to read
-1. The Soul of A New Machine
-   - Tracy Kidder
-2. Gödel, Escher, Bach: An Eternal Golden Braid
-   - Douglas Hofstadter
-3. Quantum Computer Science: An Introduction
+  1. The Soul of A New Machine
+     - Tracy Kidder
+  2. Gödel, Escher, Bach: An Eternal Golden Braid
+     - Douglas Hofstadter
+  3. Quantum Computer Science: An Introduction
 
 * Books I have partially read
-1. Structure and Interpretation of Computer Programs
-   - Harold Abelson
-   - Gerald Jay Sussman
-   - Julie Sussman
-2. The Little Schemer
-   - Daniel P. Friedman
-   - Matthias Felleisen
-3. The Rust Programming Language
-   - https://doc.rust-lang.org/book/
+  1. Structure and Interpretation of Computer Programs
+     - Harold Abelson
+     - Gerald Jay Sussman
+     - Julie Sussman
+  2. The Little Schemer
+     - Daniel P. Friedman
+     - Matthias Felleisen
+  3. The Rust Programming Language
+     - https://doc.rust-lang.org/book/
 
 * Footnotes
-[1] A Book assigned for class.
+  [1] A Book assigned for class.
 
-[2] A Book I reread.
-  
+  [2] A Book I reread.
