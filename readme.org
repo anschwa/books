@@ -1,8 +1,9 @@
 * Books I am currently reading
+* Books I have read
+** 2019
 ** March
    1. Wittgenstein's Poker
       - David Edmonds & John Eidinow
-* Books I have read
 ** 2018
 *** March - June
     1. Ethics, Treatise on the Emendation of the Intellect and Selected Letters [1]
