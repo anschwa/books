@@ -3,6 +3,9 @@
      - Will Herberg
 * Books I have read
 ** 2019
+** September
+   1. The Work of Art in the Age of Mechanical Reproduction
+      - Walter Benjamin
 ** March
    1. Wittgenstein's Poker
       - David Edmonds & John Eidinow
