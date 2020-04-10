@@ -1,12 +1,18 @@
 * Books I am currently reading
+** December 2019
+  1. Site Reliability Engineering
+     - Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Murphy
+
+* Books I have read
+** 2020
+*** September 2019 - February 2020
   1. Four Existential Theologians
      - Will Herberg
-* Books I have read
 ** 2019
-** September
+*** September
    1. The Work of Art in the Age of Mechanical Reproduction
       - Walter Benjamin
-** March
+*** March
    1. Wittgenstein's Poker
       - David Edmonds & John Eidinow
 ** 2018
