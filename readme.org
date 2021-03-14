@@ -7,6 +7,10 @@
    - Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Murphy
 
 * Books I have read
+** 2021
+*** March
+1. REWORK
+  - Jason Fried and David Heinemeier Hansson
 ** 2020
 *** September 2019 - February 2020
 1. Four Existential Theologians
